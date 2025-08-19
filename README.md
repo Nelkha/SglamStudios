@@ -198,12 +198,18 @@ Archivos detectados y relevantes:
 Si este repositorio es un demo y deseas acceso a la versión completa o privada del proyecto, contacta al mantenedor del repositorio para recibir instrucciones o un paquete del código.
 
 
+
+## 📬 Contacto para reclutadores
+
+**Mario A. Gallego** — marioagallego91@gmail.com
+
+Por favor incluya en el correo: nombre, compañía, puesto y motivo de la solicitud. Responderé con acceso privado al código o instrucciones para revisar el proyecto según su preferencia.
 ---
 
-## 📄 Licencia
-
-Contenido del repositorio para evaluación y desarrollo. Revisa la licencia específica con el propietario del proyecto si piensas usar el código en producción.
-
 ---
+
+## 📜 Licencia
+
+Contenido demo para evaluación técnica. Para acuerdos de licencia o uso en producción, contactar al autor.
 
 
