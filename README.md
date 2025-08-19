@@ -197,7 +197,6 @@ Archivos detectados y relevantes:
 
 Si este repositorio es un demo y deseas acceso a la versión completa o privada del proyecto, contacta al mantenedor del repositorio para recibir instrucciones o un paquete del código.
 
-Si quieres que yo añada ejemplos adicionales (p. ej. `api/registrarMiembro.js`, validación de tokens o integración con ImgBB/Imgur), indícalo y los crearé adaptados a tu preferencia de proveedor.
 
 ---
 
