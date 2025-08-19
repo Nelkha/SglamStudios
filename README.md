@@ -28,7 +28,7 @@ Aplicación SPA en React (Vite) para gestionar artistas, galerías, eventos y tu
 
 SPA creada con React + Vite y Tailwind para la gestión de artistas, galerías y turnos.
 
-El frontend usa Firebase (Firestore + Auth). Para subida de imágenes el proyecto integra Cloudinary (helper en `src/utils/uploadToImgBB.js` que en realidad hace upload a Cloudinary). El backend incluye endpoints serverless de ejemplo (p. ej. `api/sendEmail.js`) y lógica de administración alojada en componentes y utilidades del proyecto.
+El frontend usa Firebase (Firestore + Auth). Para subida de imágenes el proyecto integra Cloudinary. El backend incluye endpoints serverless de ejemplo (p. ej. `api/sendEmail.js`) y lógica de administración alojada en componentes y utilidades del proyecto.
 
 ---
 
