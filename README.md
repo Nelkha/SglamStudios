@@ -67,6 +67,24 @@ Listado de funcionalidades principales:
 ## ✨ Galeria
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/bdd9278c-9de6-43ea-9ecf-f0222eebc328" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/2a07927a-86e5-4fd7-8bed-3543715d7f00" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/80b94e40-a4a4-4b5e-b042-c61314b8541f" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/6d2c8ae4-6f8e-4fe0-aa86-35ea5f121e3c" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/65c8f361-2708-4517-86e9-01010939df4e" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/c7f5d7af-ec2f-4f89-8173-b77296235b82" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/ccd2d067-2a75-4a98-89ad-216b3d53ca0b" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/4152e37b-d6bf-4f48-9ea2-420d136dbbdd" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/d163dcd3-6b3c-4531-9ab3-1a9daff52c5c" />
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/34d3f1dd-0170-4816-89be-c563c1beb5fd" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/73d52b12-9718-4cab-bae0-060de87788e4" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/0694c0d9-5cc2-4e80-9e1d-45aa8792b31f" />
+
+
+
+
+
+
+
 
 
 
