@@ -205,8 +205,7 @@ Estructura principal (resumen):
   - `components/` — múltiples componentes UI (Artista, Eventos, Admin, Gallery, Forms...)
   - `hooks/` — hooks personalizados
   - `utils/` — utilidades (ej: `sendEmail.js` wrapper en utils si existe)
-- `src/utils/uploadToImgBB.js` — helper de subida a Cloudinary 
-- `api/` — endpoints serverless (`sendEmail.js`)
+  - `api/` — endpoints serverless (`sendEmail.js`)
 - `public/` — assets públicos
 - `package.json`, `vite.config.js`, `tailwind` y configs.
 
@@ -218,7 +217,7 @@ Archivos detectados y relevantes:
 
 ## 🛠️ Cómo contribuir o pedir acceso al código completo
 
-Si este repositorio es un demo y deseas acceso a la versión completa o privada del proyecto, contacta al mantenedor del repositorio para recibir instrucciones o un paquete del código.
+Si este repositorio es un demo y deseas acceso a la versión completa o privada del proyecto, contactame.
 
 
 
