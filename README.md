@@ -64,6 +64,10 @@ Listado de funcionalidades principales:
   - Recomendación de roles y reglas en Firestore para separar funciones públicas y administrativas.
 
 ---
+## ✨ Galeria
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/bdd9278c-9de6-43ea-9ecf-f0222eebc328" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/2a07927a-86e5-4fd7-8bed-3543715d7f00" />
+
 
 
 ## 🔁 Flujo de turnos y comportamiento detallado
